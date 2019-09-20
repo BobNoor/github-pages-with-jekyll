@@ -1,5 +1,6 @@
 title: Coding Rocks
 author: Noor Maher
+Theme: minima
 email: Noor.maher@ocsbstudent.ca
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -11,4 +12,4 @@ twitter_username: @Noor35812882
 github_username:  BobNoor
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-Theme: minima
+
